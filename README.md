@@ -7,13 +7,13 @@ Alphabet written dataset : https://www.kaggle.com/datasets/dhruvildave/english-h
 
 หลังจากดาวน์โหลด dataset แล้ว unzip โฟลเดอร์หลังจาหนั้นให้เปลี่ยนชื่อโฟลเดอร์จาก 'archive' เป็น 'alphabets' แล้วนำโฟลเดอร์นี้ไปใส่ใน working directory
 *Note: โครงสร้างของ dataset : english.csv จะประกอยด้วยคอลัมน์ image(path ไปที่ไฟล์รูป), label(ผลเฉลย)
-          alphabets
-            │
-            └── Img
-            |    │
-            |    ├── images of alphabets
-            │
-            └── english.csv
+          alphabets\
+            │\
+            └── Img\
+            |    │\
+            |    ├── images of alphabets\
+            │\
+            └── english.csv\
 
 # Preprocessing data
 
